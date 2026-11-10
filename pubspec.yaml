@@ -1,5 +1,6 @@
 name: flutter_aliplayer
-description: Aliyun Player With Flutter
+description: Simulator-only iOS mock of flutter_aliplayer 7.18.0 for Flutter UI debugging.
+publish_to: none
 version: 7.18.0
 #author: Alibaba
 homepage: https://www.aliyun.com/product/vod
